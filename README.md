@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋   
+### 🌱 I’m currently learning Javascript
+### 😄 I'm  a new worker and a enthusiast 
+### 📫 My blog : https://godguns.gitee.io/blog/
+###   Happy to know u!
 
 <!--
 **Godguns/Godguns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
