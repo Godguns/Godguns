@@ -1,6 +1,6 @@
 ### Hi there 👋   
 ### 🌱 I’m currently learning Javascript
-### 😄 I'm  a new worker and a enthusiast 
+### 😄 学生 工作新人
 ### 📫 My blog : https://godguns.gitee.io/blog/
 ###   Happy to know u!     
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Godguns&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
