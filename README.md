@@ -1,5 +1,4 @@
 ### Hi there 👋      
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 ### 🌱 I’m currently learning Javascript
 ### 😄 学生 前端新人
 ### 📫 My blog : https://godguns.github.io/
@@ -8,7 +7,7 @@
 
 <!--
 **Godguns/Godguns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
