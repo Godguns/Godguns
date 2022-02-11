@@ -3,7 +3,6 @@
 ### 😄 学生 前端新人
 ### 📫 My blog : https://godguns.github.io/
 ###   Happy to know u!        
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Godguns&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
