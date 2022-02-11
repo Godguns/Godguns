@@ -3,7 +3,7 @@
 ### 😄 学生 前端新人
 ### 📫 My blog : https://godguns.github.io/
 ###   Happy to know u!            
-<img align="right" width="300" src="https://dongdove.cn/ganyu.png">   
+<img align="right" width="300" src="https://camo.githubusercontent.com/27604fdf5c92e2b7408a3ece6f78b235f3b13a8d484b1eca700c409bc35e553c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f52696d6f4368616e2f72696d6f6368616e2f30302e77656270">   
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Godguns&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
