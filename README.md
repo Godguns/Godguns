@@ -1,7 +1,7 @@
 ### Hi there 👋      
 ### 🌱 I’m currently learning Javascript
 ### 😄 JSer 
-### 📫 My blog : https://godguns.github.io/
+### 📫 My blog : https://github.com/Godguns/Blog
 ###   Happy to know u!            
 <img align="right" width="300" src="https://camo.githubusercontent.com/27604fdf5c92e2b7408a3ece6f78b235f3b13a8d484b1eca700c409bc35e553c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f52696d6f4368616e2f72696d6f6368616e2f30302e77656270">   
 
